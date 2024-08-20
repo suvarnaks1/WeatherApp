@@ -25,6 +25,9 @@ class MyApp extends StatelessWidget {
                 AppBarTheme(backgroundColor: Colors.transparent, elevation: 0)),
         debugShowCheckedModeBanner: false,
         home: HomePage(),
+
+
+        
       ),
     );
   }
